@@ -1,5 +1,5 @@
 {
-  "name": "mcp-devops-kit",
+  "name": "@codeblueprint/mcp-devops-kit",
   "version": "1.0.0",
   "description": "MCP server for DevOps tools: GitHub, Docker, and filesystem operations",
   "main": "dist/index.js",
